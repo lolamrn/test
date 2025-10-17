@@ -2,4 +2,4 @@
 repository creation test
 
 ## sous titre 
-cest un test  pour fusion
+c'est un test  pour fusion
