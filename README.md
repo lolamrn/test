@@ -8,5 +8,9 @@ c'est un test  pour fusion
 
 
 
-un graphique 
+un graphique
+
+
+
+et une image 
 
